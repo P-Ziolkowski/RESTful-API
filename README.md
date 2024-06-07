@@ -1,5 +1,5 @@
 To run project:
-
+````
 git clone https://github.com/P-Ziolkowski/RESTful-API.git
 
 cd RESTful-API/product_api/
@@ -13,3 +13,4 @@ pip install -r requirements.txt
 python manage.py migrate
 
 python manage.py runserver
+````
